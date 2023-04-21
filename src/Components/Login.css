@@ -1,0 +1,14 @@
+@media screen and (max-width: 780px) {
+    .box{
+        width: 100%;
+    }
+}
+.main-div{
+    width: 50% !important;
+}
+
+.box{
+    display:inline;
+    margin: auto;
+    width: 50%;
+}
