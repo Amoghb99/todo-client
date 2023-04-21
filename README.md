@@ -1,1 +1,5 @@
-Deployed URL : https://todo-client-8t7y.onrender.com
+Deployed URL : https://todo-client-olive.vercel.app/ (frontend)
+
+Test Logins:
+email: amogh@gmail.com
+password: amoghb
